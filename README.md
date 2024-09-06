@@ -9,7 +9,7 @@ Bypasses the prompt where you have to login or register to a quora account to vi
 ![Agelock Register](https://i.imgur.com/2wq5uNg.png)
 
 ### After
-![Agelock bypassed](https://i.imgur.com/gVjcpP5.png)
+![Agelock bypassed](https://i.imgur.com/OnExGzV.png)
 
 
 ## How to Install
