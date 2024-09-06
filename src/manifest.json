@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Quora Age Bypasser",
+    "version": "1.0",
+    "description": "Removes the block where you have to register to view certain Quora Pages.",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["*://*.quora.com/*"],
+        "js": ["bypass.js"]
+      }
+    ],
+    "icons": {
+        "48": "icon.png"
+    }
+  }
+  
