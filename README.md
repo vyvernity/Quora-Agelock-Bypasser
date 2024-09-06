@@ -8,6 +8,9 @@ Bypasses the prompt where you have to login or register to a quora account to vi
 ### Before
 ![Agelock Register](https://i.imgur.com/2wq5uNg.png)
 
+### After
+![Agelock bypassed](https://i.imgur.com/gVjcpP5.png)
+
 
 ## How to Install
 - Install the release of the bypass
